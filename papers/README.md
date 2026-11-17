@@ -1,14 +1,14 @@
-# Paper Library
+# 参考文献资料
 
-The bibliography contains the unique papers cited or used as dataset/method references in the SmartDoc research note. PDFs are grouped under `pdfs/` by topic. `manifest.tsv` records each paper's ID, title, year, official download URL, and local path.
+这里收集了 SmartDoc 调研中引用或作为数据集、方法参考的文献。PDF 按主题放在 `pdfs/` 目录中；`manifest.tsv` 记录文献编号、题名、年份、官方下载地址和本地路径。
 
-## Groups
+## 分类
 
-- `pdfs/documents/`: long-document understanding, retrieval, parsing, and document agents.
-- `pdfs/datasets/`: source papers for public document QA and table/text datasets.
-- `pdfs/agents/`: tool use, agentic reinforcement learning, trajectory evaluation, and safety.
-- `pdfs/process/`: process supervision, reward modeling, and post-training.
+- `pdfs/documents/`：长文档理解、检索、解析和文档智能体。
+- `pdfs/datasets/`：公开文档问答及表格/文本数据集的来源文献。
+- `pdfs/agents/`：工具使用、智能体强化学习、轨迹评测和安全。
+- `pdfs/process/`：过程监督、奖励建模和模型后训练。
 
-The PDFs are local reading copies. Copyright and licenses remain with the authors/publishers; this repository tracks the bibliography but ignores the PDF directory so papers are not pushed to GitHub.
+PDF 文件仅供本地阅读，版权及许可仍归作者或出版方所有。仓库只提交文献目录和来源清单；PDF 目录已被忽略，不会推送到 GitHub。
 
-Open [the paper index](INDEX.md) for clickable local PDF links. Download URLs in `manifest.tsv` point to arXiv or ACL Anthology.
+可在[本地文献索引](INDEX.md)中打开对应 PDF。`manifest.tsv` 中的下载地址来自 arXiv 或 ACL Anthology。

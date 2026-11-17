@@ -1,12 +1,12 @@
-# SmartDoc Research
+# SmartDoc 项目资料
 
-This repository contains the research and data-design notes for the SmartDoc document-agent project. The current scope is a research prototype: local document processing, evidence-grounded answers, tool use, and later SFT / agentic-RL experiments.
+本仓库用于整理 SmartDoc 文档智能体项目的调研、数据方案、参考文献和样例。当前工作重点是先理解相关方法、明确数据准备计划，并支持本地文档处理原型的验证。项目目前处于调研与原型准备阶段。
 
-## Contents
+## 资料目录
 
-- [Data research and collection plan](docs/data_research_zh.md)
-- [Example data schemas](data/examples/README.md)
-- [Local paper PDF index](papers/INDEX.md)
-- [Group-meeting presentation script (2026-11-19)](docs/组会汇报_2026-11-19.md)
+- [数据调研与采集方案](docs/data_research_zh.md)
+- [数据格式样例](data/examples/README.md)
+- [本地参考文献索引](papers/INDEX.md)
+- [组会汇报讲稿（2026-11-19）](docs/组会汇报_2026-11-19.md)
 
-The notes distinguish benchmark use from training use. Dataset licenses and terms must be checked against the original source before redistribution or training.
+调研资料区分了基准评测和模型训练的用途。使用或分发任何公开数据集前，都应回到原始来源核对许可和具体条款。
