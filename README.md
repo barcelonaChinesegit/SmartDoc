@@ -6,5 +6,7 @@ This repository contains the research and data-design notes for the SmartDoc doc
 
 - [Data research and collection plan](docs/data_research_zh.md)
 - [Example data schemas](data/examples/README.md)
+- [Local paper PDF index](papers/INDEX.md)
+- [Group-meeting presentation script (2026-11-19)](docs/组会汇报_2026-11-19.md)
 
 The notes distinguish benchmark use from training use. Dataset licenses and terms must be checked against the original source before redistribution or training.

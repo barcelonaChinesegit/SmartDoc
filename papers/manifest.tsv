@@ -1,0 +1,36 @@
+local_path	year	paper_id	title	source_url
+pdfs/documents/2024_2407.01523_MMLongBench-Doc.pdf	2024	2407.01523	MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations	https://arxiv.org/pdf/2407.01523
+pdfs/documents/2025_2025.acl-long.57_LongDocURL.pdf	2025	2025.acl-long.57	LongDocURL: A Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating	https://aclanthology.org/2025.acl-long.57.pdf
+pdfs/documents/2025_2025.emnlp-main.1576_MMDocIR.pdf	2025	2025.emnlp-main.1576	MMDocIR: Benchmarking Multimodal Retrieval for Long Documents	https://aclanthology.org/2025.emnlp-main.1576.pdf
+pdfs/documents/2025_2025.emnlp-main.77_MEBench.pdf	2025	2025.emnlp-main.77	MEBench: Benchmarking Large Language Models for Cross-Document Multi-Entity Question Answering	https://aclanthology.org/2025.emnlp-main.77.pdf
+pdfs/documents/2025_2025.emnlp-main.893_DocAgent.pdf	2025	2025.emnlp-main.893	DocAgent: An Agentic Framework for Multi-Modal Long-Context Document Understanding	https://aclanthology.org/2025.emnlp-main.893.pdf
+pdfs/documents/2026_2608.03397_MMLongBench-Doc-V2.pdf	2026	2608.03397	MMLongBench-Doc-V2: A Corrected-Annotation Semantics-Aware Revision of MMLongBench-Doc	https://arxiv.org/pdf/2608.03397
+pdfs/documents/2026_2026.emnlp-main.954_Document-Grounded-Information-Seeking.pdf	2026	2026.emnlp-main.954	Towards Agentic Document-Grounded Information Seeking	https://aclanthology.org/2026.emnlp-main.954.pdf
+pdfs/documents/2026_2026.acl-long.1234_DocLens.pdf	2026	2026.acl-long.1234	DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding	https://aclanthology.org/2026.acl-long.1234.pdf
+pdfs/documents/2024_2024.acl-long.172_LongBench.pdf	2024	2024.acl-long.172	LongBench: A Bilingual Multitask Benchmark for Long Context Understanding	https://aclanthology.org/2024.acl-long.172.pdf
+pdfs/documents/2025_2025.acl-long.183_LongBench-v2.pdf	2025	2025.acl-long.183	LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks	https://aclanthology.org/2025.acl-long.183.pdf
+pdfs/documents/2024_2412.07626_OmniDocBench.pdf	2024	2412.07626	OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations	https://arxiv.org/pdf/2412.07626
+pdfs/datasets/2020_2007.00398_DocVQA.pdf	2020	2007.00398	DocVQA: A Dataset for VQA on Document Images	https://arxiv.org/pdf/2007.00398
+pdfs/datasets/2023_2305.08455_DUDE.pdf	2023	2305.08455	Document Understanding Dataset and Evaluation (DUDE)	https://arxiv.org/pdf/2305.08455
+pdfs/datasets/2021_2105.03011_QASPER.pdf	2021	2105.03011	A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers (QASPER)	https://arxiv.org/pdf/2105.03011
+pdfs/datasets/2021_2109.00122_FinQA.pdf	2021	2109.00122	FinQA: A Dataset of Numerical Reasoning over Financial Data	https://arxiv.org/pdf/2109.00122
+pdfs/datasets/2021_2105.07624_TAT-QA.pdf	2021	2105.07624	TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance	https://arxiv.org/pdf/2105.07624
+pdfs/datasets/2022_2022.acl-long.454_MultiHiertt.pdf	2022	2022.acl-long.454	MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data	https://aclanthology.org/2022.acl-long.454.pdf
+pdfs/datasets/2020_2011.06623_doc2dial.pdf	2020	2011.06623	doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset	https://arxiv.org/pdf/2011.06623
+pdfs/agents/2024_2406.12045_tau-bench.pdf	2024	2406.12045	Tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains	https://arxiv.org/pdf/2406.12045
+pdfs/agents/2024_2409.00920_ToolACE.pdf	2024	2409.00920	ToolACE: Winning the Points of LLM Function Calling	https://arxiv.org/pdf/2409.00920
+pdfs/agents/2025_2505.07512_ToolACE-DEV.pdf	2025	2505.07512	ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution	https://arxiv.org/pdf/2505.07512
+pdfs/agents/2025_2503.09516_Search-R1.pdf	2025	2503.09516	Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning	https://arxiv.org/pdf/2503.09516
+pdfs/agents/2025_2505.17005_R1-Searcher-Plus-Plus.pdf	2025	2505.17005	R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning	https://arxiv.org/pdf/2505.17005
+pdfs/agents/2025_2505.16421_WebAgent-R1.pdf	2025	2505.16421	WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning	https://arxiv.org/pdf/2505.16421
+pdfs/agents/2025_2505.01441_Agentic-Reasoning-Tool-Integration-RL.pdf	2025	2505.01441	Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning	https://arxiv.org/pdf/2505.01441
+pdfs/agents/2025_2505.15117_Reasoning-Search-RL-Empirical-Study.pdf	2025	2505.15117	An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents	https://arxiv.org/pdf/2505.15117
+pdfs/agents/2025_2509.02547_Agentic-RL-Survey.pdf	2025	2509.02547	The Landscape of Agentic Reinforcement Learning for LLMs: A Survey	https://arxiv.org/pdf/2509.02547
+pdfs/agents/2025_2510.04550_TRAJECT-Bench.pdf	2025	2510.04550	TRAJECT-Bench: A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use	https://arxiv.org/pdf/2510.04550
+pdfs/agents/2025_2502.10325_Process-Reward-Models-for-LLM-Agents.pdf	2025	2502.10325	Process Reward Models for LLM Agents: Practical Framework and Directions	https://arxiv.org/pdf/2502.10325
+pdfs/agents/2024_2407.08713_GTA.pdf	2024	2407.08713	GTA: A Benchmark for General Tool Agents	https://arxiv.org/pdf/2407.08713
+pdfs/agents/2024_2024.findings-acl.624_InjecAgent.pdf	2024	2024.findings-acl.624	InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents	https://aclanthology.org/2024.findings-acl.624.pdf
+pdfs/agents/2025_2505.00024_Nemotron-Research-Tool-N1.pdf	2025	2505.00024	Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning	https://arxiv.org/pdf/2505.00024
+pdfs/process/2023_2305.20050_PRM800K.pdf	2023	2305.20050	Let's Verify Step by Step (PRM800K)	https://arxiv.org/pdf/2305.20050
+pdfs/process/2024_2412.06559_ProcessBench.pdf	2024	2412.06559	ProcessBench: Identifying Process Errors in Mathematical Reasoning	https://arxiv.org/pdf/2412.06559
+pdfs/process/2024_2411.15124_Tulu-3.pdf	2024	2411.15124	Tulu 3: Pushing Frontiers in Open Language Model Post-Training	https://arxiv.org/pdf/2411.15124
