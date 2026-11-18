@@ -4,7 +4,7 @@
 
 ## 本次重点阅读
 
-以下 7 篇的任务、方法、可借鉴内容和局限已整理在[数据调研报告](../docs/data_research_zh.md)中。其余文件保留为扩展参考，不代表已逐篇完成同等深度的分析。
+以下 7 篇的任务、方法、论文原文示例，以及“直接使用数据/仅参考流程”的结论已整理在[数据调研报告](../docs/data_research_zh.md)中。其余文件保留为扩展参考，不代表已逐篇完成同等深度的分析。
 
 - [LongDocURL：长文档任务和证据](pdfs/documents/2025_2025.acl-long.57_LongDocURL.pdf)
 - [QASPER：文档问答和证据标注](pdfs/datasets/2021_2105.03011_QASPER.pdf)
