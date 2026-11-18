@@ -2,6 +2,20 @@
 
 共 35 篇，按主题分类。PDF 位于仓库本地 `papers/pdfs/` 下；下载来源和完整路径见 [manifest.tsv](manifest.tsv)。
 
+## 本次重点阅读
+
+以下 7 篇的任务、方法、可借鉴内容和局限已整理在[数据调研报告](../docs/data_research_zh.md)中。其余文件保留为扩展参考，不代表已逐篇完成同等深度的分析。
+
+- [LongDocURL：长文档任务和证据](pdfs/documents/2025_2025.acl-long.57_LongDocURL.pdf)
+- [QASPER：文档问答和证据标注](pdfs/datasets/2021_2105.03011_QASPER.pdf)
+- [DocAgent：长文档结构和按需读取](pdfs/documents/2025_2025.emnlp-main.893_DocAgent.pdf)
+- [ToolACE：工具调用数据合成和验证](pdfs/agents/2024_2409.00920_ToolACE.pdf)
+- [Search-R1：检索交互和强化学习](pdfs/agents/2025_2503.09516_Search-R1.pdf)
+- [TRAJECT-Bench：工具轨迹评测](pdfs/agents/2025_2510.04550_TRAJECT-Bench.pdf)
+- [ProcessBench：过程首错评测](pdfs/process/2024_2412.06559_ProcessBench.pdf)
+
+## 扩展参考目录
+
 ## 文档理解、长文档和文档智能体
 
 - [MMLongBench-Doc (2024)](pdfs/documents/2024_2407.01523_MMLongBench-Doc.pdf)
