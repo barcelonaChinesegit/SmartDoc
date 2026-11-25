@@ -1,0 +1,30 @@
+{
+  "checked_at_utc": "2026-11-25T14:03:41.812956+00:00",
+  "method": "Read-only local configuration, /proc commands, ss listeners and user systemd tunnel definitions; no remote connection or service startup",
+  "checked_ports": [
+    3080,
+    13080,
+    8001,
+    18001
+  ],
+  "matching_listeners": [
+    "LISTEN    0         511              127.0.0.1:3080             0.0.0.0:*                                                                                       "
+  ],
+  "manager": {
+    "state_file_exists": true,
+    "recorded_pid": 497284,
+    "recorded_pid_exists": false
+  },
+  "original_source_web_default": "127.0.0.1:3080",
+  "copy_web_config": "127.0.0.1:13080",
+  "original_model_default": "127.0.0.1:8001",
+  "copy_model_config": "127.0.0.1:18001",
+  "observed_reverse_tunnel_local_targets": [
+    3780,
+    22
+  ],
+  "original_public_url": "not identified in inspected files",
+  "remote_proxy_dns_checked": false,
+  "changes_to_services": false,
+  "decision": "Keep SmartDoc stopped. Do not use an existing public URL. Await user new IP/domain before public deployment."
+}
